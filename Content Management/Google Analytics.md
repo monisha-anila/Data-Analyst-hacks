@@ -22,7 +22,7 @@
 - Avg.order value during weekdays
 - Product content view based on age and gender to understand their transaction path. 
 
-### How's *product performance* page helpful?
+#### How's *product performance* page helpful?
 - Shopping cart user behaviour
 - Campaigns that brought user sessions
 - Users page path on website
