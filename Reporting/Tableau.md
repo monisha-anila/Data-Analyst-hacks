@@ -2,7 +2,7 @@
 - Tableau is one of the leading `Business Intelligence(BI)` reporting tool. Tableau `eliminates` the need to write `SQL query` to understand data behaviour by providing field calculations, `Level of details(LOD)`, and much more using bulit in functions!
 - Tableau glossary [`link`](https://data-flair.training/blogs/tableau-terminology/)
 
-## Sample dashboard designed using Tableau 
+## Sample dashboards designed using Tableau 
 **All visualisations use sample data which is for demonstration purposes only**
 - Beginner guide to [Salesforce](https://public.tableau.com/app/profile/monisha.anila/viz/Salesforce_16389471399820/SFDC) 
 - Beginner guide to [Eloqua](https://public.tableau.com/app/profile/monisha.anila/viz/Eloqua/EmailMetrics) 
