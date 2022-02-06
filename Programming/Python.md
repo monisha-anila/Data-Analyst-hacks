@@ -4,5 +4,5 @@
 ### Python series 
  - [`Basic`](https://github.com/monisha-anila/Data-Analyst-hacks/blob/main/Programming/Basics.ipynb) 
  - [`Intermediate`](https://github.com/monisha-anila/Data-Analyst-hacks/blob/main/Programming/Intermediate.ipynb) 
- - [`SQL in Python`]() 
+ - [`JitBit SQL in Python`](https://github.com/monisha-anila/Data-Analyst-hacks/blob/main/Programming/JitBit%20SQL%20.ipynb) 
 
