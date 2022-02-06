@@ -3,6 +3,6 @@
 
 ### Python series 
  - [`Basic`](https://github.com/monisha-anila/Data-Analyst-hacks/blob/main/Programming/Basics.ipynb) 
- - Intermediate 
- - Advanced 
+ - [`Intermediate`](https://github.com/monisha-anila/Data-Analyst-hacks/blob/main/Programming/Intermediate.ipynb) 
+ - [`SQL in Python`]() 
 
